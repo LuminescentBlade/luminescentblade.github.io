@@ -546,11 +546,9 @@ to represent the company, product, or service to which they refer.**
 
 @luminescentblade/code
 
-@luminescentblade/customizer
+@luminescentblade/common
 
 @luminescentblade/design-system
-
-@luminescentblade/dof
 
 @luminescentblade/misc
 
