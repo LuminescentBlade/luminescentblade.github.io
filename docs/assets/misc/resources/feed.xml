@@ -30,11 +30,11 @@
 			<pubDate>Wed, 27 Dec 2023 18:00:00 EST</pubDate>
 		</item>
 		<item>
-			<title>Mostyn</title>
-			<link>https://luminescentblade.dev/misc/resources#sprites-f2u-mostyn</link>
-			<guid isPermaLink="false">sprites-f2u-mostyn</guid>
-			<description>GBA-compatible sprite of Mostyn (Caeda's dad) from the Marth games</description>
-			<enclosure url="https://luminescentblade.dev/assets/misc/resources/sprites/mostyn.png" length="4468" type="image/png" />
+			<title>King Guy</title>
+			<link>https://luminescentblade.dev/misc/resources#sprites-f2u-king</link>
+			<guid isPermaLink="false">sprites-f2u-king</guid>
+			<description>GBA-compatible sprite of one of these kings from the Marth games</description>
+			<enclosure url="https://luminescentblade.dev/assets/misc/resources/sprites/king.png" length="4468" type="image/png" />
 			<pubDate>Wed, 27 Dec 2023 18:00:00 EST</pubDate>
 		</item>
 		<item>
