@@ -6,10 +6,74 @@
 		<link>https://luminescentblade.dev/misc/resources</link>
 		<description>Various Resources for FEGBA ROMhacking</description>
 		<item>
+			<title>Malice</title>
+			<link>https://luminescentblade.dev/misc/resources#sprites-f2u-malice</link>
+			<guid isPermaLink="false">sprites-f2u-malice</guid>
+			<description>GBA-compatible sprite of Malice from the Marth games, F2U</description>
+			<enclosure url="https://luminescentblade.dev/assets/misc/resources/sprites/malice.png" length="6551" type="image/png" />
+			<pubDate>Wed, 16 Nov 2024 16:30:00 EST</pubDate>
+		</item>
+		<item>
+			<title>Buff Woman Base 1</title>
+			<link>https://luminescentblade.dev/misc/resources#sprites-f2e-narrow1</link>
+			<guid isPermaLink="false">sprites-f2u-narrow1</guid>
+			<description>Body base set 1 of 6 for muscular women, F2E</description>
+			<enclosure url="https://luminescentblade.dev/assets/misc/resources/sprites/narrow1.png" length="1849" type="image/png" />
+			<pubDate>Wed, 16 Nov 2024 16:00:00 EST</pubDate>
+		</item>
+		<item>
+			<title>Buff Woman Base 2</title>
+			<link>https://luminescentblade.dev/misc/resources#sprites-f2e-narrow2</link>
+			<guid isPermaLink="false">sprites-f2u-narrow2</guid>
+			<description>Body base set 2 of 6 for muscular women, F2E</description>
+			<enclosure url="https://luminescentblade.dev/assets/misc/resources/sprites/narrow2.png" length="1897" type="image/png" />
+			<pubDate>Wed, 16 Nov 2024 16:00:00 EST</pubDate>
+		</item>
+		<item>
+			<title>Buff Woman Base 3</title>
+			<link>https://luminescentblade.dev/misc/resources#sprites-f2e-narrow3</link>
+			<guid isPermaLink="false">sprites-f2u-narrow3</guid>
+			<description>Body base set 3 of 6 for muscular women, F2E</description>
+			<enclosure url="https://luminescentblade.dev/assets/misc/resources/sprites/narrow3.png" length="1956" type="image/png" />
+			<pubDate>Wed, 16 Nov 2024 16:00:00 EST</pubDate>
+		</item>
+		<item>
+			<title>Buff Woman Base 4</title>
+			<link>https://luminescentblade.dev/misc/resources#sprites-f2e-wide1</link>
+			<guid isPermaLink="false">sprites-f2u-wide1</guid>
+			<description>Body base set 4 of 6 for muscular women, F2E</description>
+			<enclosure url="https://luminescentblade.dev/assets/misc/resources/sprites/wide1.png" length="1881" type="image/png" />
+			<pubDate>Wed, 16 Nov 2024 16:00:00 EST</pubDate>
+		</item>
+		<item>
+			<title>Buff Woman Base 5</title>
+			<link>https://luminescentblade.dev/misc/resources#sprites-f2e-wide2</link>
+			<guid isPermaLink="false">sprites-f2u-wide2</guid>
+			<description>Body base set 5 of 6 for muscular women, F2E</description>
+			<enclosure url="https://luminescentblade.dev/assets/misc/resources/sprites/wide2.png" length="2044" type="image/png" />
+			<pubDate>Wed, 16 Nov 2024 16:00:00 EST</pubDate>
+		</item>
+		<item>
+			<title>Buff Woman Base 6</title>
+			<link>https://luminescentblade.dev/misc/resources#sprites-f2e-wide3</link>
+			<guid isPermaLink="false">sprites-f2u-wide3</guid>
+			<description>Body base set 6 of 6 for muscular women, F2E</description>
+			<enclosure url="https://luminescentblade.dev/assets/misc/resources/sprites/wide3.png" length="2068" type="image/png" />
+			<pubDate>Wed, 16 Nov 2024 16:00:00 EST</pubDate>
+		</item>
+		<item>
+			<title>Ayra</title>
+			<link>https://luminescentblade.dev/misc/resources#sprites-req-ayra</link>
+			<guid isPermaLink="false">sprites-f2u-ayra</guid>
+			<description>GBA-compatible sprite of Ayra from Geneology of the Holy War, Permissions by Request</description>
+			<enclosure url="https://luminescentblade.dev/assets/misc/resources/sprites/ayra.png" length="6544" type="image/png" />
+			<pubDate>Wed, 16 Nov 2024 16:00:00 EST</pubDate>
+		</item>
+		<item>
 			<title>Navarre</title>
 			<link>https://luminescentblade.dev/misc/resources#sprites-f2u-navarre</link>
 			<guid isPermaLink="false">sprites-f2u-navarre</guid>
-			<description>GBA-compatible sprite of Navarre from the Marth games</description>
+			<description>GBA-compatible sprite of Navarre from the Marth games, F2U</description>
 			<enclosure url="https://luminescentblade.dev/assets/misc/resources/sprites/navarre.png" length="4080" type="image/png" />
 			<pubDate>Wed, 27 Dec 2023 18:00:00 EST</pubDate>
 		</item>
@@ -17,7 +81,7 @@
 			<title>Cain</title>
 			<link>https://luminescentblade.dev/misc/resources#sprites-f2u-cain</link>
 			<guid isPermaLink="false">sprites-f2u-cain</guid>
-			<description>GBA-compatible sprite of Cain from the Marth games</description>
+			<description>GBA-compatible sprite of Cain from the Marth games, F2U</description>
 			<enclosure url="https://luminescentblade.dev/assets/misc/resources/sprites/cain.png" length="4205" type="image/png" />
 			<pubDate>Wed, 27 Dec 2023 18:00:00 EST</pubDate>
 		</item>
@@ -25,7 +89,7 @@
 			<title>Abel</title>
 			<link>https://luminescentblade.dev/misc/resources#sprites-f2u-abel</link>
 			<guid isPermaLink="false">sprites-f2u-abel</guid>
-			<description>GBA-compatible sprite of Abel from the Marth games</description>
+			<description>GBA-compatible sprite of Abel from the Marth games, F2U</description>
 			<enclosure url="https://luminescentblade.dev/assets/misc/resources/sprites/abel.png" length="4418" type="image/png" />
 			<pubDate>Wed, 27 Dec 2023 18:00:00 EST</pubDate>
 		</item>
@@ -33,7 +97,7 @@
 			<title>King Guy</title>
 			<link>https://luminescentblade.dev/misc/resources#sprites-f2u-king</link>
 			<guid isPermaLink="false">sprites-f2u-king</guid>
-			<description>GBA-compatible sprite of one of these kings from the Marth games</description>
+			<description>GBA-compatible sprite of one of these kings from the Marth games, F2U</description>
 			<enclosure url="https://luminescentblade.dev/assets/misc/resources/sprites/king.png" length="4468" type="image/png" />
 			<pubDate>Wed, 27 Dec 2023 18:00:00 EST</pubDate>
 		</item>
@@ -41,7 +105,7 @@
 			<title>Gharnef</title>
 			<link>https://luminescentblade.dev/misc/resources#sprites-f2u-gharnef</link>
 			<guid isPermaLink="false">sprites-f2u-gharnef</guid>
-			<description>GBA-compatible sprite of Gharnef from the Marth games</description>
+			<description>GBA-compatible sprite of Gharnef from the Marth games, F2U</description>
 			<enclosure url="https://luminescentblade.dev/assets/misc/resources/sprites/gharnef.png" length="3740" type="image/png" />
 			<pubDate>Wed, 27 Dec 2023 18:00:00 EST</pubDate>
 		</item>
