@@ -6,6 +6,14 @@
 		<link>https://luminescentblade.dev/art</link>
 		<description>A gallery of my work.</description>
 		<item>
+			<title>Talon and Stalwart</title>
+			<link>https://luminescentblade.dev/art?id=thyra-kolb-state-portrait</link>
+			<guid>https://luminescentblade.dev/art?id=thyra-kolb-state-portrait</guid>
+			<description>Thyra and Kolbane's marital painting, done in a style that emulates a 1800s state portrait.</description>
+			<enclosure url="https://luminescentblade.dev/assets/art/illustrations/th/thyrakolb.png" length="149922" type="image/png" />
+			<pubDate>Sat, 7 Dec 2024 12:00:00 EST</pubDate>
+		</item>
+		<item>
 			<title>Like a Svanhild</title>
 			<link>https://luminescentblade.dev/art?id=rgg-svan-gang</link>
 			<guid>https://luminescentblade.dev/art?id=rgg-svan-gang</guid>
